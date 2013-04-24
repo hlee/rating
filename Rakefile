@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   
   Jeweler::Tasks.new do |spec|
-    spec.name                   = "rating_rails3"
+    spec.name                   = "rating"
     spec.version                = "0.8"
     spec.summary                = "Provides a simple way to add rating functionality to your application."
     spec.description            = "Provides a simple way to add rating functionality to your application."

@@ -4,12 +4,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "rating_rails3"
+  s.name = "rating"
   s.version = "0.8"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ken Lu"]
-  s.date = "2013-04-23"
+  s.date = "2013-04-24"
   s.description = "Provides a simple way to add rating functionality to your application."
   s.email = ["ken@wnel.net"]
   s.extra_rdoc_files = [
@@ -34,7 +34,7 @@ Gem::Specification.new do |s|
     "lib/generators/ajaxful_rating/templates/migration.rb",
     "lib/generators/ajaxful_rating/templates/model.rb",
     "lib/generators/ajaxful_rating/templates/style.css",
-    "rating_rails3.gemspec",
+    "rating.gemspec",
     "test/fixtures/car.rb",
     "test/fixtures/cars.yml",
     "test/fixtures/rate.rb",
